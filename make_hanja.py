@@ -17,7 +17,7 @@ cjk_ranges = \
 
 def is_cjk(ch):
   char = ord(ch)
-  return any(char in range(bottom, top + 1) for bottom, top in cjk_ranges)
+  return any(bottom <= char <= top for bottom, top in cjk_ranges)
 
 ################
 ### Romanize ###
