@@ -4,7 +4,7 @@
 schema:
   schema_id: hanja
   name: "韓語漢字音"
-  version: "20190224 V1.0.01"
+  version: "20190224 V1.0.02"
   author:
     - "chromezh <1727246457@qq.com>"
   dependencies:

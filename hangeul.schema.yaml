@@ -5,7 +5,7 @@
 schema:
   schema_id: hangeul
   name: "ハングル"
-  version: "V1.0"
+  version: "20190224 V1.0.01"
   author:
     - "chromezh <1727246457@qq.com>"
 
