@@ -1,6 +1,11 @@
 #!/usr/bin/env python3.exe
 import sqlite3
-from romanizer import Romanizer
+from hangul_romanize import Transliter
+from hangul_romanize.rule import academic
+
+###################################
+### Check if a character is CJK ###
+###################################
 
 # https://stackoverflow.com/a/52837006
 cjk_ranges = \
@@ -14,6 +19,12 @@ def is_cjk(ch):
   char = ord(ch)
   return any(char in range(bottom, top + 1) for bottom, top in cjk_ranges)
 
+################
+### Romanize ###
+################
+
+transliter = Transliter(academic)
+
 rom_memo = {}
 
 def rom(ch):
@@ -21,12 +32,16 @@ def rom(ch):
   if memoed:
     return memoed
   else:
-    res = Romanizer(ch).romanize()
+    res = transliter.translit(ch)
     rom_memo[ch] = res
     return res
 
 def rom_all(str):
   return ' '.join(rom(ch) for ch in str)
+
+###############
+### Process ###
+###############
 
 conn = sqlite3.connect('hanjadic.sqlite')
 cur = conn.cursor()
@@ -49,4 +64,4 @@ for i in cur.execute('SELECT c0hanja, c1hangul FROM hanjas_content;'):
 conn.close()
 
 for k, v in rom_memo.items():
-  print(f'{k}\t{v}')
+  print(f'    - xform/{k}/{v}/')

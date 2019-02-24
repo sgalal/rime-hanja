@@ -60,7 +60,7 @@ speller:
   initials: abcdefghijklmnoprstuvwxyz  # q for hangeul input
   delimiter: " '"
   algebra:
-    - xform/탁/tak/
+    - xform/탁/tag/
     - xform/츤/cheun/
     - xform/발/bal/
     - xform/운/un/
@@ -68,7 +68,7 @@ speller:
     - xform/퇴/toe/
     - xform/저/jeo/
     - xform/탄/tan/
-    - xform/적/jeok/
+    - xform/적/jeog/
     - xform/별/byeol/
     - xform/힐/hil/
     - xform/쌍/ssang/
@@ -76,30 +76,30 @@ speller:
     - xform/웅/ung/
     - xform/섬/seom/
     - xform/야/ya/
-    - xform/멋/meot/
+    - xform/멋/meos/
     - xform/화/hwa/
-    - xform/섭/seop/
-    - xform/약/yak/
+    - xform/섭/seob/
+    - xform/약/yag/
     - xform/전/jeon/
-    - xform/확/hwak/
+    - xform/확/hwag/
     - xform/탈/tal/
     - xform/멍/meong/
     - xform/오/o/
     - xform/쉬/swi/
     - xform/추/chu/
-    - xform/옥/ok/
-    - xform/벽/byeok/
+    - xform/옥/og/
+    - xform/벽/byeog/
     - xform/환/hwan/
-    - xform/퍅/pyak/
-    - xform/축/chuk/
+    - xform/퍅/pyag/
+    - xform/축/chug/
     - xform/가/ga/
     - xform/절/jeol/
     - xform/성/seong/
-    - xform/리/ri/
-    - xform/각/gak/
+    - xform/리/li/
+    - xform/각/gag/
     - xform/온/on/
     - xform/춘/chun/
-    - xform/롱/rong/
+    - xform/롱/long/
     - xform/활/hwal/
     - xform/팽/paeng/
     - xform/양/yang/
@@ -108,11 +108,11 @@ speller:
     - xform/괴/goe/
     - xform/다/da/
     - xform/탐/tam/
-    - xform/린/rin/
-    - xform/괵/goek/
+    - xform/린/lin/
+    - xform/괵/goeg/
     - xform/품/pum/
     - xform/푼/pun/
-    - xform/탑/tap/
+    - xform/탑/tab/
     - xform/원/won/
     - xform/출/chul/
     - xform/규/gyu/
@@ -123,9 +123,9 @@ speller:
     - xform/점/jeom/
     - xform/단/dan/
     - xform/세/se/
-    - xform/읫/uit/
+    - xform/읫/uis/
     - xform/갈/gal/
-    - xform/접/jeop/
+    - xform/접/jeob/
     - xform/탕/tang/
     - xform/월/wol/
     - xform/풍/pung/
@@ -133,17 +133,17 @@ speller:
     - xform/쇠/soe/
     - xform/균/gyun/
     - xform/훼/hwe/
-    - xform/백/baek/
+    - xform/백/baeg/
     - xform/달/dal/
     - xform/초/cho/
     - xform/굉/goeng/
     - xform/헌/heon/
-    - xform/촉/chok/
+    - xform/촉/chog/
     - xform/정/jeong/
     - xform/와/wa/
     - xform/포/po/
     - xform/귤/gyul/
-    - xform/폭/pok/
+    - xform/폭/pog/
     - xform/촌/chon/
     - xform/황/hwang/
     - xform/헐/heol/
@@ -151,17 +151,17 @@ speller:
     - xform/부/bu/
     - xform/마/ma/
     - xform/태/tae/
-    - xform/격/gyeok/
+    - xform/격/gyeog/
     - xform/완/wan/
-    - xform/북/buk/
+    - xform/북/bug/
     - xform/이/i/
-    - xform/림/rim/
-    - xform/막/mak/
-    - xform/갑/gap/
-    - xform/택/taek/
+    - xform/림/lim/
+    - xform/막/mag/
+    - xform/갑/gab/
+    - xform/택/taeg/
     - xform/대/dae/
-    - xform/익/ik/
-    - xform/립/rip/
+    - xform/익/ig/
+    - xform/립/lib/
     - xform/충/chung/
     - xform/옹/ong/
     - xform/사/sa/
@@ -171,30 +171,30 @@ speller:
     - xform/쾌/kwae/
     - xform/제/je/
     - xform/견/gyeon/
-    - xform/삭/sak/
-    - xform/답/dap/
-    - xform/댁/daek/
+    - xform/삭/sag/
+    - xform/답/dab/
+    - xform/댁/daeg/
     - xform/분/bun/
     - xform/임/im/
     - xform/만/man/
     - xform/왈/wal/
     - xform/인/in/
-    - xform/입/ip/
+    - xform/입/ib/
     - xform/강/gang/
     - xform/폴/pol/
-    - xform/끽/kkik/
+    - xform/끽/kkig/
     - xform/산/san/
     - xform/죄/joe/
     - xform/홰/hwae/
     - xform/험/heom/
-    - xform/특/teuk/
+    - xform/특/teug/
     - xform/결/gyeol/
     - xform/당/dang/
     - xform/불/bul/
     - xform/말/mal/
     - xform/일/il/
     - xform/잉/ing/
-    - xform/득/deuk/
+    - xform/득/deug/
     - xform/휘/hwi/
     - xform/틈/teum/
     - xform/살/sal/
@@ -202,34 +202,34 @@ speller:
     - xform/상/sang/
     - xform/개/gae/
     - xform/뇌/noe/
-    - xform/객/gaek/
+    - xform/객/gaeg/
     - xform/치/chi/
     - xform/글/geul/
-    - xform/칙/chik/
+    - xform/칙/chig/
     - xform/계/gye/
     - xform/겸/gyeom/
     - xform/총/chong/
     - xform/자/ja/
     - xform/며/myeo/
     - xform/피/pi/
-    - xform/폿/pot/
-    - xform/겹/gyeop/
-    - xform/작/jak/
-    - xform/멱/myeok/
-    - xform/픽/pik/
+    - xform/폿/pos/
+    - xform/겹/gyeob/
+    - xform/작/jag/
+    - xform/멱/myeog/
+    - xform/픽/pig/
     - xform/친/chin/
     - xform/묘/myo/
     - xform/새/sae/
     - xform/왕/wang/
     - xform/투/tu/
     - xform/삼/sam/
-    - xform/색/saek/
-    - xform/극/geuk/
+    - xform/색/saeg/
+    - xform/극/geug/
     - xform/면/myeon/
-    - xform/삽/sap/
+    - xform/삽/sab/
     - xform/잔/jan/
     - xform/경/gyeong/
-    - xform/핍/pip/
+    - xform/핍/pib/
     - xform/탱/taeng/
     - xform/칠/chil/
     - xform/나/na/
@@ -237,44 +237,44 @@ speller:
     - xform/므/meu/
     - xform/망/mang/
     - xform/금/geum/
-    - xform/레/re/
+    - xform/레/le/
     - xform/두/du/
     - xform/회/hoe/
-    - xform/낙/nak/
+    - xform/낙/nag/
     - xform/근/geun/
     - xform/어/eo/
-    - xform/급/geup/
-    - xform/억/eok/
+    - xform/급/geub/
+    - xform/억/eog/
     - xform/멸/myeol/
-    - xform/획/hoek/
+    - xform/획/hoeg/
     - xform/녀/nyeo/
     - xform/잘/jal/
     - xform/명/myeong/
     - xform/난/nan/
     - xform/보/bo/
-    - xform/뤼/rwi/
-    - xform/녁/nyeok/
+    - xform/뤼/lwi/
+    - xform/녁/nyeog/
     - xform/엄/eom/
     - xform/둔/dun/
     - xform/왜/wae/
     - xform/췌/chwe/
-    - xform/복/bok/
+    - xform/복/bog/
     - xform/언/eon/
     - xform/긍/geung/
-    - xform/업/eop/
+    - xform/업/eob/
     - xform/뉴/nyu/
     - xform/퉁/tung/
     - xform/위/wi/
     - xform/년/nyeon/
     - xform/매/mae/
-    - xform/엇/eot/
-    - xform/뉵/nyuk/
+    - xform/엇/eos/
+    - xform/뉵/nyug/
     - xform/침/chim/
-    - xform/맥/maek/
+    - xform/맥/maeg/
     - xform/둘/dul/
     - xform/날/nal/
     - xform/본/bon/
-    - xform/칩/chip/
+    - xform/칩/chib/
     - xform/등/deung/
     - xform/얼/eol/
     - xform/촬/chwal/
@@ -283,11 +283,11 @@ speller:
     - xform/몌/mye/
     - xform/하/ha/
     - xform/토/to/
-    - xform/국/guk/
+    - xform/국/gug/
     - xform/녈/nyeol/
     - xform/잠/jam/
-    - xform/학/hak/
-    - xform/잡/jap/
+    - xform/학/hag/
+    - xform/잡/jab/
     - xform/갱/gaeng/
     - xform/슬/seul/
     - xform/봉/bong/
@@ -296,110 +296,110 @@ speller:
     - xform/칭/ching/
     - xform/군/gun/
     - xform/씨/ssi/
-    - xform/독/dok/
+    - xform/독/dog/
     - xform/빈/bin/
     - xform/처/cheo/
-    - xform/혁/hyeok/
+    - xform/혁/hyeog/
     - xform/한/han/
     - xform/톤/ton/
-    - xform/척/cheok/
+    - xform/척/cheog/
     - xform/장/jang/
     - xform/수/su/
-    - xform/뢰/roe/
+    - xform/뢰/loe/
     - xform/남/nam/
     - xform/쵀/chwae/
-    - xform/란/ran/
+    - xform/란/lan/
     - xform/돈/don/
     - xform/에/e/
-    - xform/숙/suk/
-    - xform/납/nap/
+    - xform/숙/sug/
+    - xform/납/nab/
     - xform/휴/hyu/
     - xform/현/hyeon/
     - xform/굴/gul/
     - xform/궁/gung/
-    - xform/즉/jeuk/
+    - xform/즉/jeug/
     - xform/천/cheon/
-    - xform/휵/hyuk/
+    - xform/휵/hyug/
     - xform/할/hal/
-    - xform/류/ryu/
+    - xform/류/lyu/
     - xform/념/nyeom/
     - xform/뇨/nyo/
     - xform/생/saeng/
-    - xform/륙/ryuk/
-    - xform/녑/nyeop/
-    - xform/갹/gyak/
-    - xform/랄/ral/
+    - xform/륙/lyug/
+    - xform/녑/nyeob/
+    - xform/갹/gyag/
+    - xform/랄/lal/
     - xform/돌/dol/
     - xform/순/sun/
     - xform/낭/nang/
-    - xform/습/seup/
+    - xform/습/seub/
     - xform/혈/hyeol/
     - xform/철/cheol/
     - xform/고/go/
     - xform/횡/hoeng/
     - xform/재/jae/
     - xform/먀/mya/
-    - xform/곡/gok/
-    - xform/륜/ryun/
+    - xform/곡/gog/
+    - xform/륜/lyun/
     - xform/녕/nyeong/
     - xform/즐/jeul/
     - xform/술/sul/
     - xform/승/seung/
     - xform/흉/hyung/
     - xform/휼/hyul/
-    - xform/라/ra/
+    - xform/라/la/
     - xform/곤/gon/
     - xform/무/mu/
     - xform/샤/sya/
-    - xform/묵/muk/
-    - xform/락/rak/
+    - xform/묵/mug/
+    - xform/락/lag/
     - xform/함/ham/
     - xform/맹/maeng/
     - xform/내/nae/
-    - xform/률/ryul/
-    - xform/합/hap/
+    - xform/률/lyul/
+    - xform/합/hab/
     - xform/아/a/
-    - xform/람/ram/
+    - xform/람/lam/
     - xform/소/so/
-    - xform/려/ryeo/
+    - xform/려/lyeo/
     - xform/효/hyo/
-    - xform/랍/rap/
-    - xform/속/sok/
-    - xform/력/ryeok/
+    - xform/랍/lab/
+    - xform/속/sog/
+    - xform/력/lyeog/
     - xform/골/gol/
     - xform/문/mun/
     - xform/권/gwon/
-    - xform/악/ak/
+    - xform/악/ag/
     - xform/혐/hyeom/
     - xform/첨/cheom/
-    - xform/협/hyeop/
+    - xform/협/hyeob/
     - xform/통/tong/
     - xform/쟁/jaeng/
     - xform/빙/bing/
-    - xform/첩/cheop/
-    - xform/료/ryo/
+    - xform/첩/cheob/
+    - xform/료/lyo/
     - xform/녜/nye/
     - xform/항/hang/
     - xform/취/chwi/
     - xform/손/son/
-    - xform/련/ryeon/
+    - xform/련/lyeon/
     - xform/외/oe/
     - xform/안/an/
-    - xform/즙/jeup/
+    - xform/즙/jeub/
     - xform/동/dong/
     - xform/물/mul/
     - xform/준/jun/
     - xform/궐/gwol/
-    - xform/랑/rang/
-    - xform/흑/heuk/
+    - xform/랑/lang/
+    - xform/흑/heug/
     - xform/누/nu/
     - xform/형/hyeong/
     - xform/청/cheong/
     - xform/유/yu/
     - xform/솔/sol/
-    - xform/렬/ryeol/
+    - xform/렬/lyeol/
     - xform/번/beon/
-    - xform/육/yuk/
+    - xform/육/yug/
     - xform/흔/heun/
     - xform/숭/sung/
     - xform/줄/jul/
@@ -408,28 +408,28 @@ speller:
     - xform/모/mo/
     - xform/증/jeung/
     - xform/해/hae/
-    - xform/목/mok/
+    - xform/목/mog/
     - xform/윤/yun/
-    - xform/핵/haek/
+    - xform/핵/haeg/
     - xform/벌/beol/
-    - xform/륭/ryung/
+    - xform/륭/lyung/
     - xform/흘/heul/
     - xform/기/gi/
     - xform/관/gwan/
-    - xform/래/rae/
+    - xform/래/lae/
     - xform/혜/hye/
     - xform/눌/nul/
     - xform/체/che/
     - xform/주/ju/
     - xform/공/gong/
     - xform/능/neung/
-    - xform/죽/juk/
+    - xform/죽/jug/
     - xform/율/yul/
-    - xform/렴/ryeom/
+    - xform/렴/lyeom/
     - xform/김/gim/
-    - xform/례/rye/
-    - xform/곶/got/
-    - xform/늦/neut/
+    - xform/례/lye/
+    - xform/곶/goj/
+    - xform/늦/neuj/
     - xform/후/hu/
     - xform/파/pa/
     - xform/여/yeo/
@@ -437,86 +437,86 @@ speller:
     - xform/최/choe/
     - xform/암/am/
     - xform/긴/gin/
-    - xform/렵/ryeop/
+    - xform/렵/lyeob/
     - xform/몰/mol/
-    - xform/압/ap/
-    - xform/역/yeok/
+    - xform/압/ab/
+    - xform/역/yeog/
     - xform/시/si/
     - xform/행/haeng/
     - xform/범/beom/
     - xform/요/yo/
-    - xform/식/sik/
-    - xform/륵/reuk/
+    - xform/식/sig/
+    - xform/륵/leug/
     - xform/흠/heum/
     - xform/훈/hun/
     - xform/판/pan/
-    - xform/법/beop/
-    - xform/욕/yok/
+    - xform/법/beob/
+    - xform/욕/yog/
     - xform/길/gil/
     - xform/연/yeon/
-    - xform/흡/heup/
+    - xform/흡/heub/
     - xform/과/gwa/
     - xform/중/jung/
     - xform/앙/ang/
     - xform/송/song/
-    - xform/령/ryeong/
+    - xform/령/lyeong/
     - xform/터/teo/
-    - xform/곽/gwak/
-    - xform/름/reum/
+    - xform/곽/gwag/
+    - xform/름/leum/
     - xform/신/sin/
     - xform/밀/mil/
     - xform/훌/hul/
     - xform/팔/pal/
-    - xform/룡/ryong/
+    - xform/룡/lyong/
     - xform/궤/gwe/
     - xform/열/yeol/
     - xform/영/yeong/
     - xform/흥/heung/
     - xform/조/jo/
-    - xform/덕/deok/
-    - xform/족/jok/
+    - xform/덕/deog/
+    - xform/족/jog/
     - xform/은/eun/
     - xform/차/cha/
     - xform/실/sil/
-    - xform/릉/reung/
-    - xform/착/chak/
+    - xform/릉/leung/
+    - xform/착/chag/
     - xform/융/yung/
     - xform/애/ae/
     - xform/미/mi/
     - xform/솨/swa/
     - xform/존/jon/
-    - xform/액/aek/
+    - xform/액/aeg/
     - xform/몽/mong/
     - xform/광/gwang/
     - xform/을/eul/
     - xform/노/no/
     - xform/찬/chan/
     - xform/베/be/
-    - xform/루/ru/
-    - xform/녹/nok/
+    - xform/루/lu/
+    - xform/녹/nog/
     - xform/예/ye/
     - xform/희/hui/
-    - xform/벡/bek/
+    - xform/벡/beg/
     - xform/민/min/
     - xform/지/ji/
     - xform/염/yeom/
-    - xform/랭/raeng/
-    - xform/직/jik/
-    - xform/엽/yeop/
+    - xform/랭/laeng/
+    - xform/직/jig/
+    - xform/엽/yeob/
     - xform/종/jong/
     - xform/찰/chal/
     - xform/거/geo/
     - xform/졸/jol/
-    - xform/끋/kkeut/
+    - xform/끋/kkeud/
     - xform/표/pyo/
     - xform/심/sim/
     - xform/논/non/
-    - xform/걱/geok/
+    - xform/걱/geog/
     - xform/폄/pyeom/
     - xform/편/pyeon/
-    - xform/팟/pat/
-    - xform/십/sip/
-    - xform/윽/euk/
+    - xform/팟/pas/
+    - xform/십/sib/
+    - xform/윽/eug/
     - xform/진/jin/
     - xform/옌/yen/
     - xform/홀/hol/
@@ -524,35 +524,35 @@ speller:
     - xform/니/ni/
     - xform/검/geom/
     - xform/훙/hung/
-    - xform/닉/nik/
+    - xform/닉/nig/
     - xform/음/eum/
     - xform/건/geon/
-    - xform/겁/geop/
-    - xform/읍/eup/
+    - xform/겁/geob/
+    - xform/읍/eub/
     - xform/농/nong/
     - xform/용/yong/
     - xform/귀/gwi/
     - xform/질/jil/
-    - xform/것/geot/
+    - xform/것/geos/
     - xform/평/pyeong/
     - xform/서/seo/
     - xform/채/chae/
     - xform/좌/jwa/
     - xform/호/ho/
-    - xform/석/seok/
-    - xform/략/ryak/
+    - xform/석/seog/
+    - xform/략/lyag/
     - xform/참/cham/
     - xform/걸/geol/
-    - xform/혹/hok/
-    - xform/책/chaek/
+    - xform/혹/hog/
+    - xform/책/chaeg/
     - xform/응/eung/
     - xform/쇄/swae/
-    - xform/로/ro/
+    - xform/로/lo/
     - xform/패/pae/
     - xform/닐/nil/
     - xform/선/seon/
-    - xform/박/bak/
-    - xform/록/rok/
+    - xform/박/bag/
+    - xform/록/log/
     - xform/혼/hon/
     - xform/향/hyang/
     - xform/창/chang/
@@ -561,33 +561,33 @@ speller:
     - xform/뿐/ppun/
     - xform/짐/jim/
     - xform/반/ban/
-    - xform/론/ron/
+    - xform/론/lon/
     - xform/우/u/
     - xform/훤/hwon/
-    - xform/측/cheuk/
+    - xform/측/cheug/
     - xform/설/seol/
-    - xform/량/ryang/
-    - xform/집/jip/
-    - xform/욱/uk/
+    - xform/량/lyang/
+    - xform/집/jib/
+    - xform/욱/ug/
     - xform/앵/aeng/
     - xform/게/ge/
     - xform/홍/hong/
     - xform/타/ta/
     - xform/의/ui/
-    - xform/짓/jit/
+    - xform/짓/jis/
     - xform/변/byeon/
     - xform/냉/naeng/
-    - xform/늑/neuk/
-    - xform/숫/sut/
-    - xform/횟/hoet/
-    - xform/찻/chat/
+    - xform/늑/neug/
+    - xform/숫/sus/
+    - xform/횟/hoes/
+    - xform/찻/chas/
     - abbrev/^(.).*$/$1/
 
 translator:
   dictionary: hanja
   spelling_hints: 20
   comment_format:
-    - xform/탁/tak/
+    - xform/탁/tag/
     - xform/츤/cheun/
     - xform/발/bal/
     - xform/운/un/
@@ -595,7 +595,7 @@ translator:
     - xform/퇴/toe/
     - xform/저/jeo/
     - xform/탄/tan/
-    - xform/적/jeok/
+    - xform/적/jeog/
     - xform/별/byeol/
     - xform/힐/hil/
     - xform/쌍/ssang/
@@ -603,30 +603,30 @@ translator:
     - xform/웅/ung/
     - xform/섬/seom/
     - xform/야/ya/
-    - xform/멋/meot/
+    - xform/멋/meos/
     - xform/화/hwa/
-    - xform/섭/seop/
-    - xform/약/yak/
+    - xform/섭/seob/
+    - xform/약/yag/
     - xform/전/jeon/
-    - xform/확/hwak/
+    - xform/확/hwag/
     - xform/탈/tal/
     - xform/멍/meong/
     - xform/오/o/
     - xform/쉬/swi/
     - xform/추/chu/
-    - xform/옥/ok/
-    - xform/벽/byeok/
+    - xform/옥/og/
+    - xform/벽/byeog/
     - xform/환/hwan/
-    - xform/퍅/pyak/
-    - xform/축/chuk/
+    - xform/퍅/pyag/
+    - xform/축/chug/
     - xform/가/ga/
     - xform/절/jeol/
     - xform/성/seong/
-    - xform/리/ri/
-    - xform/각/gak/
+    - xform/리/li/
+    - xform/각/gag/
     - xform/온/on/
     - xform/춘/chun/
-    - xform/롱/rong/
+    - xform/롱/long/
     - xform/활/hwal/
     - xform/팽/paeng/
     - xform/양/yang/
@@ -635,11 +635,11 @@ translator:
     - xform/괴/goe/
     - xform/다/da/
     - xform/탐/tam/
-    - xform/린/rin/
-    - xform/괵/goek/
+    - xform/린/lin/
+    - xform/괵/goeg/
     - xform/품/pum/
     - xform/푼/pun/
-    - xform/탑/tap/
+    - xform/탑/tab/
     - xform/원/won/
     - xform/출/chul/
     - xform/규/gyu/
@@ -650,9 +650,9 @@ translator:
     - xform/점/jeom/
     - xform/단/dan/
     - xform/세/se/
-    - xform/읫/uit/
+    - xform/읫/uis/
     - xform/갈/gal/
-    - xform/접/jeop/
+    - xform/접/jeob/
     - xform/탕/tang/
     - xform/월/wol/
     - xform/풍/pung/
@@ -660,17 +660,17 @@ translator:
     - xform/쇠/soe/
     - xform/균/gyun/
     - xform/훼/hwe/
-    - xform/백/baek/
+    - xform/백/baeg/
     - xform/달/dal/
     - xform/초/cho/
     - xform/굉/goeng/
     - xform/헌/heon/
-    - xform/촉/chok/
+    - xform/촉/chog/
     - xform/정/jeong/
     - xform/와/wa/
     - xform/포/po/
     - xform/귤/gyul/
-    - xform/폭/pok/
+    - xform/폭/pog/
     - xform/촌/chon/
     - xform/황/hwang/
     - xform/헐/heol/
@@ -678,17 +678,17 @@ translator:
     - xform/부/bu/
     - xform/마/ma/
     - xform/태/tae/
-    - xform/격/gyeok/
+    - xform/격/gyeog/
     - xform/완/wan/
-    - xform/북/buk/
+    - xform/북/bug/
     - xform/이/i/
-    - xform/림/rim/
-    - xform/막/mak/
-    - xform/갑/gap/
-    - xform/택/taek/
+    - xform/림/lim/
+    - xform/막/mag/
+    - xform/갑/gab/
+    - xform/택/taeg/
     - xform/대/dae/
-    - xform/익/ik/
-    - xform/립/rip/
+    - xform/익/ig/
+    - xform/립/lib/
     - xform/충/chung/
     - xform/옹/ong/
     - xform/사/sa/
@@ -698,30 +698,30 @@ translator:
     - xform/쾌/kwae/
     - xform/제/je/
     - xform/견/gyeon/
-    - xform/삭/sak/
-    - xform/답/dap/
-    - xform/댁/daek/
+    - xform/삭/sag/
+    - xform/답/dab/
+    - xform/댁/daeg/
     - xform/분/bun/
     - xform/임/im/
     - xform/만/man/
     - xform/왈/wal/
     - xform/인/in/
-    - xform/입/ip/
+    - xform/입/ib/
     - xform/강/gang/
     - xform/폴/pol/
-    - xform/끽/kkik/
+    - xform/끽/kkig/
     - xform/산/san/
     - xform/죄/joe/
     - xform/홰/hwae/
     - xform/험/heom/
-    - xform/특/teuk/
+    - xform/특/teug/
     - xform/결/gyeol/
     - xform/당/dang/
     - xform/불/bul/
     - xform/말/mal/
     - xform/일/il/
     - xform/잉/ing/
-    - xform/득/deuk/
+    - xform/득/deug/
     - xform/휘/hwi/
     - xform/틈/teum/
     - xform/살/sal/
@@ -729,34 +729,34 @@ translator:
     - xform/상/sang/
     - xform/개/gae/
     - xform/뇌/noe/
-    - xform/객/gaek/
+    - xform/객/gaeg/
     - xform/치/chi/
     - xform/글/geul/
-    - xform/칙/chik/
+    - xform/칙/chig/
     - xform/계/gye/
     - xform/겸/gyeom/
     - xform/총/chong/
     - xform/자/ja/
     - xform/며/myeo/
     - xform/피/pi/
-    - xform/폿/pot/
-    - xform/겹/gyeop/
-    - xform/작/jak/
-    - xform/멱/myeok/
-    - xform/픽/pik/
+    - xform/폿/pos/
+    - xform/겹/gyeob/
+    - xform/작/jag/
+    - xform/멱/myeog/
+    - xform/픽/pig/
     - xform/친/chin/
     - xform/묘/myo/
     - xform/새/sae/
     - xform/왕/wang/
     - xform/투/tu/
     - xform/삼/sam/
-    - xform/색/saek/
-    - xform/극/geuk/
+    - xform/색/saeg/
+    - xform/극/geug/
     - xform/면/myeon/
-    - xform/삽/sap/
+    - xform/삽/sab/
     - xform/잔/jan/
     - xform/경/gyeong/
-    - xform/핍/pip/
+    - xform/핍/pib/
     - xform/탱/taeng/
     - xform/칠/chil/
     - xform/나/na/
@@ -764,44 +764,44 @@ translator:
     - xform/므/meu/
     - xform/망/mang/
     - xform/금/geum/
-    - xform/레/re/
+    - xform/레/le/
     - xform/두/du/
     - xform/회/hoe/
-    - xform/낙/nak/
+    - xform/낙/nag/
     - xform/근/geun/
     - xform/어/eo/
-    - xform/급/geup/
-    - xform/억/eok/
+    - xform/급/geub/
+    - xform/억/eog/
     - xform/멸/myeol/
-    - xform/획/hoek/
+    - xform/획/hoeg/
     - xform/녀/nyeo/
     - xform/잘/jal/
     - xform/명/myeong/
     - xform/난/nan/
     - xform/보/bo/
-    - xform/뤼/rwi/
-    - xform/녁/nyeok/
+    - xform/뤼/lwi/
+    - xform/녁/nyeog/
     - xform/엄/eom/
     - xform/둔/dun/
     - xform/왜/wae/
     - xform/췌/chwe/
-    - xform/복/bok/
+    - xform/복/bog/
     - xform/언/eon/
     - xform/긍/geung/
-    - xform/업/eop/
+    - xform/업/eob/
     - xform/뉴/nyu/
     - xform/퉁/tung/
     - xform/위/wi/
     - xform/년/nyeon/
     - xform/매/mae/
-    - xform/엇/eot/
-    - xform/뉵/nyuk/
+    - xform/엇/eos/
+    - xform/뉵/nyug/
     - xform/침/chim/
-    - xform/맥/maek/
+    - xform/맥/maeg/
     - xform/둘/dul/
     - xform/날/nal/
     - xform/본/bon/
-    - xform/칩/chip/
+    - xform/칩/chib/
     - xform/등/deung/
     - xform/얼/eol/
     - xform/촬/chwal/
@@ -810,11 +810,11 @@ translator:
     - xform/몌/mye/
     - xform/하/ha/
     - xform/토/to/
-    - xform/국/guk/
+    - xform/국/gug/
     - xform/녈/nyeol/
     - xform/잠/jam/
-    - xform/학/hak/
-    - xform/잡/jap/
+    - xform/학/hag/
+    - xform/잡/jab/
     - xform/갱/gaeng/
     - xform/슬/seul/
     - xform/봉/bong/
@@ -823,110 +823,110 @@ translator:
     - xform/칭/ching/
     - xform/군/gun/
     - xform/씨/ssi/
-    - xform/독/dok/
+    - xform/독/dog/
     - xform/빈/bin/
     - xform/처/cheo/
-    - xform/혁/hyeok/
+    - xform/혁/hyeog/
     - xform/한/han/
     - xform/톤/ton/
-    - xform/척/cheok/
+    - xform/척/cheog/
     - xform/장/jang/
     - xform/수/su/
-    - xform/뢰/roe/
+    - xform/뢰/loe/
     - xform/남/nam/
     - xform/쵀/chwae/
-    - xform/란/ran/
+    - xform/란/lan/
     - xform/돈/don/
     - xform/에/e/
-    - xform/숙/suk/
-    - xform/납/nap/
+    - xform/숙/sug/
+    - xform/납/nab/
     - xform/휴/hyu/
     - xform/현/hyeon/
     - xform/굴/gul/
     - xform/궁/gung/
-    - xform/즉/jeuk/
+    - xform/즉/jeug/
     - xform/천/cheon/
-    - xform/휵/hyuk/
+    - xform/휵/hyug/
     - xform/할/hal/
-    - xform/류/ryu/
+    - xform/류/lyu/
     - xform/념/nyeom/
     - xform/뇨/nyo/
     - xform/생/saeng/
-    - xform/륙/ryuk/
-    - xform/녑/nyeop/
-    - xform/갹/gyak/
-    - xform/랄/ral/
+    - xform/륙/lyug/
+    - xform/녑/nyeob/
+    - xform/갹/gyag/
+    - xform/랄/lal/
     - xform/돌/dol/
     - xform/순/sun/
     - xform/낭/nang/
-    - xform/습/seup/
+    - xform/습/seub/
     - xform/혈/hyeol/
     - xform/철/cheol/
     - xform/고/go/
     - xform/횡/hoeng/
     - xform/재/jae/
     - xform/먀/mya/
-    - xform/곡/gok/
-    - xform/륜/ryun/
+    - xform/곡/gog/
+    - xform/륜/lyun/
     - xform/녕/nyeong/
     - xform/즐/jeul/
     - xform/술/sul/
     - xform/승/seung/
     - xform/흉/hyung/
     - xform/휼/hyul/
-    - xform/라/ra/
+    - xform/라/la/
     - xform/곤/gon/
     - xform/무/mu/
     - xform/샤/sya/
-    - xform/묵/muk/
-    - xform/락/rak/
+    - xform/묵/mug/
+    - xform/락/lag/
     - xform/함/ham/
     - xform/맹/maeng/
     - xform/내/nae/
-    - xform/률/ryul/
-    - xform/합/hap/
+    - xform/률/lyul/
+    - xform/합/hab/
     - xform/아/a/
-    - xform/람/ram/
+    - xform/람/lam/
     - xform/소/so/
-    - xform/려/ryeo/
+    - xform/려/lyeo/
     - xform/효/hyo/
-    - xform/랍/rap/
-    - xform/속/sok/
-    - xform/력/ryeok/
+    - xform/랍/lab/
+    - xform/속/sog/
+    - xform/력/lyeog/
     - xform/골/gol/
     - xform/문/mun/
     - xform/권/gwon/
-    - xform/악/ak/
+    - xform/악/ag/
     - xform/혐/hyeom/
     - xform/첨/cheom/
-    - xform/협/hyeop/
+    - xform/협/hyeob/
     - xform/통/tong/
     - xform/쟁/jaeng/
     - xform/빙/bing/
-    - xform/첩/cheop/
-    - xform/료/ryo/
+    - xform/첩/cheob/
+    - xform/료/lyo/
     - xform/녜/nye/
     - xform/항/hang/
     - xform/취/chwi/
     - xform/손/son/
-    - xform/련/ryeon/
+    - xform/련/lyeon/
     - xform/외/oe/
     - xform/안/an/
-    - xform/즙/jeup/
+    - xform/즙/jeub/
     - xform/동/dong/
     - xform/물/mul/
     - xform/준/jun/
     - xform/궐/gwol/
-    - xform/랑/rang/
-    - xform/흑/heuk/
+    - xform/랑/lang/
+    - xform/흑/heug/
     - xform/누/nu/
     - xform/형/hyeong/
     - xform/청/cheong/
     - xform/유/yu/
     - xform/솔/sol/
-    - xform/렬/ryeol/
+    - xform/렬/lyeol/
     - xform/번/beon/
-    - xform/육/yuk/
+    - xform/육/yug/
     - xform/흔/heun/
     - xform/숭/sung/
     - xform/줄/jul/
@@ -935,28 +935,28 @@ translator:
     - xform/모/mo/
     - xform/증/jeung/
     - xform/해/hae/
-    - xform/목/mok/
+    - xform/목/mog/
     - xform/윤/yun/
-    - xform/핵/haek/
+    - xform/핵/haeg/
     - xform/벌/beol/
-    - xform/륭/ryung/
+    - xform/륭/lyung/
     - xform/흘/heul/
     - xform/기/gi/
     - xform/관/gwan/
-    - xform/래/rae/
+    - xform/래/lae/
     - xform/혜/hye/
     - xform/눌/nul/
     - xform/체/che/
     - xform/주/ju/
     - xform/공/gong/
     - xform/능/neung/
-    - xform/죽/juk/
+    - xform/죽/jug/
     - xform/율/yul/
-    - xform/렴/ryeom/
+    - xform/렴/lyeom/
     - xform/김/gim/
-    - xform/례/rye/
-    - xform/곶/got/
-    - xform/늦/neut/
+    - xform/례/lye/
+    - xform/곶/goj/
+    - xform/늦/neuj/
     - xform/후/hu/
     - xform/파/pa/
     - xform/여/yeo/
@@ -964,86 +964,86 @@ translator:
     - xform/최/choe/
     - xform/암/am/
     - xform/긴/gin/
-    - xform/렵/ryeop/
+    - xform/렵/lyeob/
     - xform/몰/mol/
-    - xform/압/ap/
-    - xform/역/yeok/
+    - xform/압/ab/
+    - xform/역/yeog/
     - xform/시/si/
     - xform/행/haeng/
     - xform/범/beom/
     - xform/요/yo/
-    - xform/식/sik/
-    - xform/륵/reuk/
+    - xform/식/sig/
+    - xform/륵/leug/
     - xform/흠/heum/
     - xform/훈/hun/
     - xform/판/pan/
-    - xform/법/beop/
-    - xform/욕/yok/
+    - xform/법/beob/
+    - xform/욕/yog/
     - xform/길/gil/
     - xform/연/yeon/
-    - xform/흡/heup/
+    - xform/흡/heub/
     - xform/과/gwa/
     - xform/중/jung/
     - xform/앙/ang/
     - xform/송/song/
-    - xform/령/ryeong/
+    - xform/령/lyeong/
     - xform/터/teo/
-    - xform/곽/gwak/
-    - xform/름/reum/
+    - xform/곽/gwag/
+    - xform/름/leum/
     - xform/신/sin/
     - xform/밀/mil/
     - xform/훌/hul/
     - xform/팔/pal/
-    - xform/룡/ryong/
+    - xform/룡/lyong/
     - xform/궤/gwe/
     - xform/열/yeol/
     - xform/영/yeong/
     - xform/흥/heung/
     - xform/조/jo/
-    - xform/덕/deok/
-    - xform/족/jok/
+    - xform/덕/deog/
+    - xform/족/jog/
     - xform/은/eun/
     - xform/차/cha/
     - xform/실/sil/
-    - xform/릉/reung/
-    - xform/착/chak/
+    - xform/릉/leung/
+    - xform/착/chag/
     - xform/융/yung/
     - xform/애/ae/
     - xform/미/mi/
     - xform/솨/swa/
     - xform/존/jon/
-    - xform/액/aek/
+    - xform/액/aeg/
     - xform/몽/mong/
     - xform/광/gwang/
     - xform/을/eul/
     - xform/노/no/
     - xform/찬/chan/
     - xform/베/be/
-    - xform/루/ru/
-    - xform/녹/nok/
+    - xform/루/lu/
+    - xform/녹/nog/
     - xform/예/ye/
     - xform/희/hui/
-    - xform/벡/bek/
+    - xform/벡/beg/
     - xform/민/min/
     - xform/지/ji/
     - xform/염/yeom/
-    - xform/랭/raeng/
-    - xform/직/jik/
-    - xform/엽/yeop/
+    - xform/랭/laeng/
+    - xform/직/jig/
+    - xform/엽/yeob/
     - xform/종/jong/
     - xform/찰/chal/
     - xform/거/geo/
     - xform/졸/jol/
-    - xform/끋/kkeut/
+    - xform/끋/kkeud/
     - xform/표/pyo/
     - xform/심/sim/
     - xform/논/non/
-    - xform/걱/geok/
+    - xform/걱/geog/
     - xform/폄/pyeom/
     - xform/편/pyeon/
-    - xform/팟/pat/
-    - xform/십/sip/
-    - xform/윽/euk/
+    - xform/팟/pas/
+    - xform/십/sib/
+    - xform/윽/eug/
     - xform/진/jin/
     - xform/옌/yen/
     - xform/홀/hol/
@@ -1051,35 +1051,35 @@ translator:
     - xform/니/ni/
     - xform/검/geom/
     - xform/훙/hung/
-    - xform/닉/nik/
+    - xform/닉/nig/
     - xform/음/eum/
     - xform/건/geon/
-    - xform/겁/geop/
-    - xform/읍/eup/
+    - xform/겁/geob/
+    - xform/읍/eub/
     - xform/농/nong/
     - xform/용/yong/
     - xform/귀/gwi/
     - xform/질/jil/
-    - xform/것/geot/
+    - xform/것/geos/
     - xform/평/pyeong/
     - xform/서/seo/
     - xform/채/chae/
     - xform/좌/jwa/
     - xform/호/ho/
-    - xform/석/seok/
-    - xform/략/ryak/
+    - xform/석/seog/
+    - xform/략/lyag/
     - xform/참/cham/
     - xform/걸/geol/
-    - xform/혹/hok/
-    - xform/책/chaek/
+    - xform/혹/hog/
+    - xform/책/chaeg/
     - xform/응/eung/
     - xform/쇄/swae/
-    - xform/로/ro/
+    - xform/로/lo/
     - xform/패/pae/
     - xform/닐/nil/
     - xform/선/seon/
-    - xform/박/bak/
-    - xform/록/rok/
+    - xform/박/bag/
+    - xform/록/log/
     - xform/혼/hon/
     - xform/향/hyang/
     - xform/창/chang/
@@ -1088,26 +1088,26 @@ translator:
     - xform/뿐/ppun/
     - xform/짐/jim/
     - xform/반/ban/
-    - xform/론/ron/
+    - xform/론/lon/
     - xform/우/u/
     - xform/훤/hwon/
-    - xform/측/cheuk/
+    - xform/측/cheug/
     - xform/설/seol/
-    - xform/량/ryang/
-    - xform/집/jip/
-    - xform/욱/uk/
+    - xform/량/lyang/
+    - xform/집/jib/
+    - xform/욱/ug/
     - xform/앵/aeng/
     - xform/게/ge/
     - xform/홍/hong/
     - xform/타/ta/
     - xform/의/ui/
-    - xform/짓/jit/
+    - xform/짓/jis/
     - xform/변/byeon/
     - xform/냉/naeng/
-    - xform/늑/neuk/
-    - xform/숫/sut/
-    - xform/횟/hoet/
-    - xform/찻/chat/
+    - xform/늑/neug/
+    - xform/숫/sus/
+    - xform/횟/hoes/
+    - xform/찻/chas/
     - xform/^(.+)$/$1 /  # Force comment display, even when the strings are identical
 
 luna_pinyin:
@@ -1121,7 +1121,7 @@ luna_pinyin_reverse_lookup:
   dictionary: hanja
   overwrite_comment: true
   comment_format:
-    - xform/탁/tak/
+    - xform/탁/tag/
     - xform/츤/cheun/
     - xform/발/bal/
     - xform/운/un/
@@ -1129,7 +1129,7 @@ luna_pinyin_reverse_lookup:
     - xform/퇴/toe/
     - xform/저/jeo/
     - xform/탄/tan/
-    - xform/적/jeok/
+    - xform/적/jeog/
     - xform/별/byeol/
     - xform/힐/hil/
     - xform/쌍/ssang/
@@ -1137,30 +1137,30 @@ luna_pinyin_reverse_lookup:
     - xform/웅/ung/
     - xform/섬/seom/
     - xform/야/ya/
-    - xform/멋/meot/
+    - xform/멋/meos/
     - xform/화/hwa/
-    - xform/섭/seop/
-    - xform/약/yak/
+    - xform/섭/seob/
+    - xform/약/yag/
     - xform/전/jeon/
-    - xform/확/hwak/
+    - xform/확/hwag/
     - xform/탈/tal/
     - xform/멍/meong/
     - xform/오/o/
     - xform/쉬/swi/
     - xform/추/chu/
-    - xform/옥/ok/
-    - xform/벽/byeok/
+    - xform/옥/og/
+    - xform/벽/byeog/
     - xform/환/hwan/
-    - xform/퍅/pyak/
-    - xform/축/chuk/
+    - xform/퍅/pyag/
+    - xform/축/chug/
     - xform/가/ga/
     - xform/절/jeol/
     - xform/성/seong/
-    - xform/리/ri/
-    - xform/각/gak/
+    - xform/리/li/
+    - xform/각/gag/
     - xform/온/on/
     - xform/춘/chun/
-    - xform/롱/rong/
+    - xform/롱/long/
     - xform/활/hwal/
     - xform/팽/paeng/
     - xform/양/yang/
@@ -1169,11 +1169,11 @@ luna_pinyin_reverse_lookup:
     - xform/괴/goe/
     - xform/다/da/
     - xform/탐/tam/
-    - xform/린/rin/
-    - xform/괵/goek/
+    - xform/린/lin/
+    - xform/괵/goeg/
     - xform/품/pum/
     - xform/푼/pun/
-    - xform/탑/tap/
+    - xform/탑/tab/
     - xform/원/won/
     - xform/출/chul/
     - xform/규/gyu/
@@ -1184,9 +1184,9 @@ luna_pinyin_reverse_lookup:
     - xform/점/jeom/
     - xform/단/dan/
     - xform/세/se/
-    - xform/읫/uit/
+    - xform/읫/uis/
     - xform/갈/gal/
-    - xform/접/jeop/
+    - xform/접/jeob/
     - xform/탕/tang/
     - xform/월/wol/
     - xform/풍/pung/
@@ -1194,17 +1194,17 @@ luna_pinyin_reverse_lookup:
     - xform/쇠/soe/
     - xform/균/gyun/
     - xform/훼/hwe/
-    - xform/백/baek/
+    - xform/백/baeg/
     - xform/달/dal/
     - xform/초/cho/
     - xform/굉/goeng/
     - xform/헌/heon/
-    - xform/촉/chok/
+    - xform/촉/chog/
     - xform/정/jeong/
     - xform/와/wa/
     - xform/포/po/
     - xform/귤/gyul/
-    - xform/폭/pok/
+    - xform/폭/pog/
     - xform/촌/chon/
     - xform/황/hwang/
     - xform/헐/heol/
@@ -1212,17 +1212,17 @@ luna_pinyin_reverse_lookup:
     - xform/부/bu/
     - xform/마/ma/
     - xform/태/tae/
-    - xform/격/gyeok/
+    - xform/격/gyeog/
     - xform/완/wan/
-    - xform/북/buk/
+    - xform/북/bug/
     - xform/이/i/
-    - xform/림/rim/
-    - xform/막/mak/
-    - xform/갑/gap/
-    - xform/택/taek/
+    - xform/림/lim/
+    - xform/막/mag/
+    - xform/갑/gab/
+    - xform/택/taeg/
     - xform/대/dae/
-    - xform/익/ik/
-    - xform/립/rip/
+    - xform/익/ig/
+    - xform/립/lib/
     - xform/충/chung/
     - xform/옹/ong/
     - xform/사/sa/
@@ -1232,30 +1232,30 @@ luna_pinyin_reverse_lookup:
     - xform/쾌/kwae/
     - xform/제/je/
     - xform/견/gyeon/
-    - xform/삭/sak/
-    - xform/답/dap/
-    - xform/댁/daek/
+    - xform/삭/sag/
+    - xform/답/dab/
+    - xform/댁/daeg/
     - xform/분/bun/
     - xform/임/im/
     - xform/만/man/
     - xform/왈/wal/
     - xform/인/in/
-    - xform/입/ip/
+    - xform/입/ib/
     - xform/강/gang/
     - xform/폴/pol/
-    - xform/끽/kkik/
+    - xform/끽/kkig/
     - xform/산/san/
     - xform/죄/joe/
     - xform/홰/hwae/
     - xform/험/heom/
-    - xform/특/teuk/
+    - xform/특/teug/
     - xform/결/gyeol/
     - xform/당/dang/
     - xform/불/bul/
     - xform/말/mal/
     - xform/일/il/
     - xform/잉/ing/
-    - xform/득/deuk/
+    - xform/득/deug/
     - xform/휘/hwi/
     - xform/틈/teum/
     - xform/살/sal/
@@ -1263,34 +1263,34 @@ luna_pinyin_reverse_lookup:
     - xform/상/sang/
     - xform/개/gae/
     - xform/뇌/noe/
-    - xform/객/gaek/
+    - xform/객/gaeg/
     - xform/치/chi/
     - xform/글/geul/
-    - xform/칙/chik/
+    - xform/칙/chig/
     - xform/계/gye/
     - xform/겸/gyeom/
     - xform/총/chong/
     - xform/자/ja/
     - xform/며/myeo/
     - xform/피/pi/
-    - xform/폿/pot/
-    - xform/겹/gyeop/
-    - xform/작/jak/
-    - xform/멱/myeok/
-    - xform/픽/pik/
+    - xform/폿/pos/
+    - xform/겹/gyeob/
+    - xform/작/jag/
+    - xform/멱/myeog/
+    - xform/픽/pig/
     - xform/친/chin/
     - xform/묘/myo/
     - xform/새/sae/
     - xform/왕/wang/
     - xform/투/tu/
     - xform/삼/sam/
-    - xform/색/saek/
-    - xform/극/geuk/
+    - xform/색/saeg/
+    - xform/극/geug/
     - xform/면/myeon/
-    - xform/삽/sap/
+    - xform/삽/sab/
     - xform/잔/jan/
     - xform/경/gyeong/
-    - xform/핍/pip/
+    - xform/핍/pib/
     - xform/탱/taeng/
     - xform/칠/chil/
     - xform/나/na/
@@ -1298,44 +1298,44 @@ luna_pinyin_reverse_lookup:
     - xform/므/meu/
     - xform/망/mang/
     - xform/금/geum/
-    - xform/레/re/
+    - xform/레/le/
     - xform/두/du/
     - xform/회/hoe/
-    - xform/낙/nak/
+    - xform/낙/nag/
     - xform/근/geun/
     - xform/어/eo/
-    - xform/급/geup/
-    - xform/억/eok/
+    - xform/급/geub/
+    - xform/억/eog/
     - xform/멸/myeol/
-    - xform/획/hoek/
+    - xform/획/hoeg/
     - xform/녀/nyeo/
     - xform/잘/jal/
     - xform/명/myeong/
     - xform/난/nan/
     - xform/보/bo/
-    - xform/뤼/rwi/
-    - xform/녁/nyeok/
+    - xform/뤼/lwi/
+    - xform/녁/nyeog/
     - xform/엄/eom/
     - xform/둔/dun/
     - xform/왜/wae/
     - xform/췌/chwe/
-    - xform/복/bok/
+    - xform/복/bog/
     - xform/언/eon/
     - xform/긍/geung/
-    - xform/업/eop/
+    - xform/업/eob/
     - xform/뉴/nyu/
     - xform/퉁/tung/
     - xform/위/wi/
     - xform/년/nyeon/
     - xform/매/mae/
-    - xform/엇/eot/
-    - xform/뉵/nyuk/
+    - xform/엇/eos/
+    - xform/뉵/nyug/
     - xform/침/chim/
-    - xform/맥/maek/
+    - xform/맥/maeg/
     - xform/둘/dul/
     - xform/날/nal/
     - xform/본/bon/
-    - xform/칩/chip/
+    - xform/칩/chib/
     - xform/등/deung/
     - xform/얼/eol/
     - xform/촬/chwal/
@@ -1344,11 +1344,11 @@ luna_pinyin_reverse_lookup:
     - xform/몌/mye/
     - xform/하/ha/
     - xform/토/to/
-    - xform/국/guk/
+    - xform/국/gug/
     - xform/녈/nyeol/
     - xform/잠/jam/
-    - xform/학/hak/
-    - xform/잡/jap/
+    - xform/학/hag/
+    - xform/잡/jab/
     - xform/갱/gaeng/
     - xform/슬/seul/
     - xform/봉/bong/
@@ -1357,110 +1357,110 @@ luna_pinyin_reverse_lookup:
     - xform/칭/ching/
     - xform/군/gun/
     - xform/씨/ssi/
-    - xform/독/dok/
+    - xform/독/dog/
     - xform/빈/bin/
     - xform/처/cheo/
-    - xform/혁/hyeok/
+    - xform/혁/hyeog/
     - xform/한/han/
     - xform/톤/ton/
-    - xform/척/cheok/
+    - xform/척/cheog/
     - xform/장/jang/
     - xform/수/su/
-    - xform/뢰/roe/
+    - xform/뢰/loe/
     - xform/남/nam/
     - xform/쵀/chwae/
-    - xform/란/ran/
+    - xform/란/lan/
     - xform/돈/don/
     - xform/에/e/
-    - xform/숙/suk/
-    - xform/납/nap/
+    - xform/숙/sug/
+    - xform/납/nab/
     - xform/휴/hyu/
     - xform/현/hyeon/
     - xform/굴/gul/
     - xform/궁/gung/
-    - xform/즉/jeuk/
+    - xform/즉/jeug/
     - xform/천/cheon/
-    - xform/휵/hyuk/
+    - xform/휵/hyug/
     - xform/할/hal/
-    - xform/류/ryu/
+    - xform/류/lyu/
     - xform/념/nyeom/
     - xform/뇨/nyo/
     - xform/생/saeng/
-    - xform/륙/ryuk/
-    - xform/녑/nyeop/
-    - xform/갹/gyak/
-    - xform/랄/ral/
+    - xform/륙/lyug/
+    - xform/녑/nyeob/
+    - xform/갹/gyag/
+    - xform/랄/lal/
     - xform/돌/dol/
     - xform/순/sun/
     - xform/낭/nang/
-    - xform/습/seup/
+    - xform/습/seub/
     - xform/혈/hyeol/
     - xform/철/cheol/
     - xform/고/go/
     - xform/횡/hoeng/
     - xform/재/jae/
     - xform/먀/mya/
-    - xform/곡/gok/
-    - xform/륜/ryun/
+    - xform/곡/gog/
+    - xform/륜/lyun/
     - xform/녕/nyeong/
     - xform/즐/jeul/
     - xform/술/sul/
     - xform/승/seung/
     - xform/흉/hyung/
     - xform/휼/hyul/
-    - xform/라/ra/
+    - xform/라/la/
     - xform/곤/gon/
     - xform/무/mu/
     - xform/샤/sya/
-    - xform/묵/muk/
-    - xform/락/rak/
+    - xform/묵/mug/
+    - xform/락/lag/
     - xform/함/ham/
     - xform/맹/maeng/
     - xform/내/nae/
-    - xform/률/ryul/
-    - xform/합/hap/
+    - xform/률/lyul/
+    - xform/합/hab/
     - xform/아/a/
-    - xform/람/ram/
+    - xform/람/lam/
     - xform/소/so/
-    - xform/려/ryeo/
+    - xform/려/lyeo/
     - xform/효/hyo/
-    - xform/랍/rap/
-    - xform/속/sok/
-    - xform/력/ryeok/
+    - xform/랍/lab/
+    - xform/속/sog/
+    - xform/력/lyeog/
     - xform/골/gol/
     - xform/문/mun/
     - xform/권/gwon/
-    - xform/악/ak/
+    - xform/악/ag/
     - xform/혐/hyeom/
     - xform/첨/cheom/
-    - xform/협/hyeop/
+    - xform/협/hyeob/
     - xform/통/tong/
     - xform/쟁/jaeng/
     - xform/빙/bing/
-    - xform/첩/cheop/
-    - xform/료/ryo/
+    - xform/첩/cheob/
+    - xform/료/lyo/
     - xform/녜/nye/
     - xform/항/hang/
     - xform/취/chwi/
     - xform/손/son/
-    - xform/련/ryeon/
+    - xform/련/lyeon/
     - xform/외/oe/
     - xform/안/an/
-    - xform/즙/jeup/
+    - xform/즙/jeub/
     - xform/동/dong/
     - xform/물/mul/
     - xform/준/jun/
     - xform/궐/gwol/
-    - xform/랑/rang/
-    - xform/흑/heuk/
+    - xform/랑/lang/
+    - xform/흑/heug/
     - xform/누/nu/
     - xform/형/hyeong/
     - xform/청/cheong/
     - xform/유/yu/
     - xform/솔/sol/
-    - xform/렬/ryeol/
+    - xform/렬/lyeol/
     - xform/번/beon/
-    - xform/육/yuk/
+    - xform/육/yug/
     - xform/흔/heun/
     - xform/숭/sung/
     - xform/줄/jul/
@@ -1469,28 +1469,28 @@ luna_pinyin_reverse_lookup:
     - xform/모/mo/
     - xform/증/jeung/
     - xform/해/hae/
-    - xform/목/mok/
+    - xform/목/mog/
     - xform/윤/yun/
-    - xform/핵/haek/
+    - xform/핵/haeg/
     - xform/벌/beol/
-    - xform/륭/ryung/
+    - xform/륭/lyung/
     - xform/흘/heul/
     - xform/기/gi/
     - xform/관/gwan/
-    - xform/래/rae/
+    - xform/래/lae/
     - xform/혜/hye/
     - xform/눌/nul/
     - xform/체/che/
     - xform/주/ju/
     - xform/공/gong/
     - xform/능/neung/
-    - xform/죽/juk/
+    - xform/죽/jug/
     - xform/율/yul/
-    - xform/렴/ryeom/
+    - xform/렴/lyeom/
     - xform/김/gim/
-    - xform/례/rye/
-    - xform/곶/got/
-    - xform/늦/neut/
+    - xform/례/lye/
+    - xform/곶/goj/
+    - xform/늦/neuj/
     - xform/후/hu/
     - xform/파/pa/
     - xform/여/yeo/
@@ -1498,86 +1498,86 @@ luna_pinyin_reverse_lookup:
     - xform/최/choe/
     - xform/암/am/
     - xform/긴/gin/
-    - xform/렵/ryeop/
+    - xform/렵/lyeob/
     - xform/몰/mol/
-    - xform/압/ap/
-    - xform/역/yeok/
+    - xform/압/ab/
+    - xform/역/yeog/
     - xform/시/si/
     - xform/행/haeng/
     - xform/범/beom/
     - xform/요/yo/
-    - xform/식/sik/
-    - xform/륵/reuk/
+    - xform/식/sig/
+    - xform/륵/leug/
     - xform/흠/heum/
     - xform/훈/hun/
     - xform/판/pan/
-    - xform/법/beop/
-    - xform/욕/yok/
+    - xform/법/beob/
+    - xform/욕/yog/
     - xform/길/gil/
     - xform/연/yeon/
-    - xform/흡/heup/
+    - xform/흡/heub/
     - xform/과/gwa/
     - xform/중/jung/
     - xform/앙/ang/
     - xform/송/song/
-    - xform/령/ryeong/
+    - xform/령/lyeong/
     - xform/터/teo/
-    - xform/곽/gwak/
-    - xform/름/reum/
+    - xform/곽/gwag/
+    - xform/름/leum/
     - xform/신/sin/
     - xform/밀/mil/
     - xform/훌/hul/
     - xform/팔/pal/
-    - xform/룡/ryong/
+    - xform/룡/lyong/
     - xform/궤/gwe/
     - xform/열/yeol/
     - xform/영/yeong/
     - xform/흥/heung/
     - xform/조/jo/
-    - xform/덕/deok/
-    - xform/족/jok/
+    - xform/덕/deog/
+    - xform/족/jog/
     - xform/은/eun/
     - xform/차/cha/
     - xform/실/sil/
-    - xform/릉/reung/
-    - xform/착/chak/
+    - xform/릉/leung/
+    - xform/착/chag/
     - xform/융/yung/
     - xform/애/ae/
     - xform/미/mi/
     - xform/솨/swa/
     - xform/존/jon/
-    - xform/액/aek/
+    - xform/액/aeg/
     - xform/몽/mong/
     - xform/광/gwang/
     - xform/을/eul/
     - xform/노/no/
     - xform/찬/chan/
     - xform/베/be/
-    - xform/루/ru/
-    - xform/녹/nok/
+    - xform/루/lu/
+    - xform/녹/nog/
     - xform/예/ye/
     - xform/희/hui/
-    - xform/벡/bek/
+    - xform/벡/beg/
     - xform/민/min/
     - xform/지/ji/
     - xform/염/yeom/
-    - xform/랭/raeng/
-    - xform/직/jik/
-    - xform/엽/yeop/
+    - xform/랭/laeng/
+    - xform/직/jig/
+    - xform/엽/yeob/
     - xform/종/jong/
     - xform/찰/chal/
     - xform/거/geo/
     - xform/졸/jol/
-    - xform/끋/kkeut/
+    - xform/끋/kkeud/
     - xform/표/pyo/
     - xform/심/sim/
     - xform/논/non/
-    - xform/걱/geok/
+    - xform/걱/geog/
     - xform/폄/pyeom/
     - xform/편/pyeon/
-    - xform/팟/pat/
-    - xform/십/sip/
-    - xform/윽/euk/
+    - xform/팟/pas/
+    - xform/십/sib/
+    - xform/윽/eug/
     - xform/진/jin/
     - xform/옌/yen/
     - xform/홀/hol/
@@ -1585,35 +1585,35 @@ luna_pinyin_reverse_lookup:
     - xform/니/ni/
     - xform/검/geom/
     - xform/훙/hung/
-    - xform/닉/nik/
+    - xform/닉/nig/
     - xform/음/eum/
     - xform/건/geon/
-    - xform/겁/geop/
-    - xform/읍/eup/
+    - xform/겁/geob/
+    - xform/읍/eub/
     - xform/농/nong/
     - xform/용/yong/
     - xform/귀/gwi/
     - xform/질/jil/
-    - xform/것/geot/
+    - xform/것/geos/
     - xform/평/pyeong/
     - xform/서/seo/
     - xform/채/chae/
     - xform/좌/jwa/
     - xform/호/ho/
-    - xform/석/seok/
-    - xform/략/ryak/
+    - xform/석/seog/
+    - xform/략/lyag/
     - xform/참/cham/
     - xform/걸/geol/
-    - xform/혹/hok/
-    - xform/책/chaek/
+    - xform/혹/hog/
+    - xform/책/chaeg/
     - xform/응/eung/
     - xform/쇄/swae/
-    - xform/로/ro/
+    - xform/로/lo/
     - xform/패/pae/
     - xform/닐/nil/
     - xform/선/seon/
-    - xform/박/bak/
-    - xform/록/rok/
+    - xform/박/bag/
+    - xform/록/log/
     - xform/혼/hon/
     - xform/향/hyang/
     - xform/창/chang/
@@ -1622,26 +1622,26 @@ luna_pinyin_reverse_lookup:
     - xform/뿐/ppun/
     - xform/짐/jim/
     - xform/반/ban/
-    - xform/론/ron/
+    - xform/론/lon/
     - xform/우/u/
     - xform/훤/hwon/
-    - xform/측/cheuk/
+    - xform/측/cheug/
     - xform/설/seol/
-    - xform/량/ryang/
-    - xform/집/jip/
-    - xform/욱/uk/
+    - xform/량/lyang/
+    - xform/집/jib/
+    - xform/욱/ug/
     - xform/앵/aeng/
     - xform/게/ge/
     - xform/홍/hong/
     - xform/타/ta/
     - xform/의/ui/
-    - xform/짓/jit/
+    - xform/짓/jis/
     - xform/변/byeon/
     - xform/냉/naeng/
-    - xform/늑/neuk/
-    - xform/숫/sut/
-    - xform/횟/hoet/
-    - xform/찻/chat/
+    - xform/늑/neug/
+    - xform/숫/sus/
+    - xform/횟/hoes/
+    - xform/찻/chas/
   tags: [ luna_pinyin ]
 
 hangeul:

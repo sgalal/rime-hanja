@@ -23,5 +23,4 @@ _Input Chinese characters by Korean pronunciation_
 ## Acknowledgements
 
 * [dbravender/hanja-dictionary](https://github.com/dbravender/hanja-dictionary)
-* [osori/korean-romanizer](https://github.com/osori/korean-romanizer)
-* [biopolyhedron/rime-qyeyshanglr-hanja](https://github.com/biopolyhedron/rime-qyeyshanglr-hanja)
+* [youknowone/hangul-romanize](https://github.com/youknowone/hangul-romanize)
