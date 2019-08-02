@@ -24,3 +24,7 @@ _Input Chinese characters by Korean pronunciation_
 
 * [dbravender/hanja-dictionary](https://github.com/dbravender/hanja-dictionary)
 * [youknowone/hangul-romanize](https://github.com/youknowone/hangul-romanize)
+
+## Similar Projects
+
+* [rime-kunyomi](https://github.com/sgalal/rime-kunyomi): Input Chinese words by Japanese Kunyomi with Rime
