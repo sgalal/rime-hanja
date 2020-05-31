@@ -20,11 +20,14 @@ _Input Chinese characters by Korean pronunciation_
 
 ![](demo/4.png)
 
-## Acknowledgements
+## Build
 
-* [dbravender/hanja-dictionary](https://github.com/dbravender/hanja-dictionary)
-* [youknowone/hangul-romanize](https://github.com/youknowone/hangul-romanize)
+Code for generating the IME files is in the `build` branch.
+
+## License
+
+Dictionary data is from [dbravender/hanja-dictionary](https://github.com/dbravender/hanja-dictionary). See LICENSE in the repository for details.
 
 ## Similar Projects
 
-* [rime-kunyomi](https://github.com/sgalal/rime-kunyomi): Input Chinese words by Japanese Kunyomi with Rime
+* [rime-kunyomi](https://github.com/sgalal/rime-kunyomi): Input Chinese words by Japanese _Kunyomi_
